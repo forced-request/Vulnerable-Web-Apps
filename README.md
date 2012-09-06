@@ -13,4 +13,4 @@ This program is free software: you can redistribute it and/or modify
 
 ============================================================================
 
-This software is intended as PoC apps for the Web Exploitation Framework <https://github.com/WebExploitationFramework/wXf>
+This software is developed by John Poulin <john.m.poulin@maine.edu> and is intended as PoC apps for the Web Exploitation Framework <https://github.com/WebExploitationFramework/wXf>
